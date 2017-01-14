@@ -72,7 +72,7 @@
     <div class="navbar navbar-fixed-top navbar-inverse">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="#">
+          <a class="brand" href="index.html">
             <spring:message code="minutes.exercised"/>
           </a>
           <ul class="nav">
