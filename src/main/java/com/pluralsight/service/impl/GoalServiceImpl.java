@@ -30,7 +30,7 @@ public class GoalServiceImpl implements GoalService{
     }
 
     public List<Goal> findAll() {
-        return goalRepository.loadAll();
+        return goalRepository.findAll();
     }
 
     public List<GoalReport> findAllGoalReports() {
